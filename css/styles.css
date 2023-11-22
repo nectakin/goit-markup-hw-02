@@ -106,10 +106,15 @@ ul{
 }
 .our-team-header{
     font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
+}
+.team-list{
+    background-color: #ffffff;
 }
 .portfolio{
     background-color: #f4f4fd;
